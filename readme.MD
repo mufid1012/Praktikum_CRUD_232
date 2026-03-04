@@ -3,6 +3,8 @@
 REST API sederhana untuk mengelola data user.
 
 ---
+Tampilan WEB:
+![Preview Index.html](img.png)
 
 ## 🔗 Base URL
 
